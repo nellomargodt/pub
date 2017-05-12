@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "paintings.html",
     "name": "www.nellomargodt.be",
     "theme": {
       "name": "mobirise3",
@@ -299,16 +299,21 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "spacing": "6",
             "paddingTop": "4",
             "paddingBottom": "3",
-            "showText": false,
-            "images": [],
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/afb-23-2000x1509-30.png",
+                "active": true
+              }
+            ],
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": true,
+            "spacing": "6",
+            "showText": false
           },
           "_anchor": "gallery1-k",
           "articleLayout": false,
