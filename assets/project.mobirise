@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "index.html",
-    "name": "www.nellomargodt.be",
+    "currentPage": "monotypes.html",
+    "name": "nello margodt",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,10 +23,10 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 40,
     "versionPublish": "3.9.2",
-    "favicon": "@PROJECT_PATH@/assets/images/win-20170321-172655-2-128x72-78.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/img-8669-128x85-44.jpg",
     "noImageResize": "",
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@/mobirise"
+    "publishPath": "file:///C:/Users/nello/Desktop/mobirise"
   },
   "pages": {
     "index.html": {
