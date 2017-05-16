@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "paintings.html",
+    "currentPage": "index.html",
     "name": "www.nellomargodt.be",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "uniqCompNum": 43,
     "versionPublish": "3.9.2",
     "favicon": "@PROJECT_PATH@/assets/images/win-20170321-172655-2-128x72-78.jpg",
-    "noImageResize": "",
+    "noImageResize": "true",
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@/mobirise"
   },
@@ -33,7 +33,7 @@
       "settings": {
         "main": true,
         "title": "nello margodt homepage",
-        "meta_descr": "nello, margodt, drawings, paintings, studio drawing, artist at work, photography, biography,",
+        "meta_descr": " Nello Margodt ,Nello, Margodt, drawings, paintings, studio drawing, artist at work, photography, biography,",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -63,13 +63,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b044f"
+              "background": "#deaa05"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#260571!important"
+              "background": "#fac10d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2b0680"
+              "background": "#fac51c"
             },
             ".bg-color.transparent .link": {
               "color": "#b8312f",
@@ -98,7 +98,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -153,7 +153,7 @@
             ".mbr-section-title": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "color": "#b8312f"
+              "color": "#fac51c"
             }
           },
           "_anchor": "header1-0",
@@ -161,7 +161,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/afb-1-2000x1457-74.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/IMG_8618_1.JPG",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -169,7 +169,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.1",
             "overlayColor": "#2969b0",
             "contentAlign": "right",
             "showTitle": true,
@@ -197,10 +197,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "1.3rem"
@@ -221,7 +221,7 @@
               "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -241,13 +241,13 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#000000"
             }
           },
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -274,7 +274,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -307,13 +307,13 @@
                 "active": true
               }
             ],
+            "spacing": "6",
+            "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true,
-            "spacing": "6",
-            "showText": false
+            "showBullets": true
           },
           "_anchor": "gallery1-k",
           "articleLayout": false,
@@ -386,7 +386,7 @@
           "_name": "menu",
           "_anchor": "menu-5",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -413,7 +413,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -622,7 +622,7 @@
           "_name": "menu",
           "_anchor": "menu-v",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -649,7 +649,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -744,13 +744,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b044f"
+              "background": "#deaa05"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#260571!important"
+              "background": "#fac10d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2b0680"
+              "background": "#fac51c"
             },
             ".bg-color.transparent .link": {
               "color": "#b8312f",
@@ -779,7 +779,7 @@
           "_name": "menu",
           "_anchor": "menu-b",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -806,7 +806,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -832,7 +832,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#fac51c"
             }
           },
           "_anchor": "header1-o",
@@ -840,7 +840,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8669-2000x1333-28.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/IMG_8618.JPG",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -876,10 +876,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#b8312f"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#b8312f"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "1.3rem"
@@ -891,16 +891,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b044f"
+              "background": "#deaa05"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#260571!important"
+              "background": "#fac10d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2b0680"
+              "background": "#fac51c"
             },
             ".bg-color.transparent .link": {
-              "color": "#b8312f",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -920,13 +920,13 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#b8312f"
+              "background-color": "#000000"
             }
           },
           "_name": "menu",
           "_anchor": "menu-e",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -953,7 +953,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1090,7 +1090,7 @@
           "_name": "menu",
           "_anchor": "menu-v",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -1117,7 +1117,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1227,7 +1227,7 @@
           "_name": "menu",
           "_anchor": "menu-11",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -1254,7 +1254,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1402,7 +1402,7 @@
           "_name": "menu",
           "_anchor": "menu-14",
           "_params": {
-            "bgColor": "#2b0680",
+            "bgColor": "#fac51c",
             "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#b8312f",
@@ -1429,7 +1429,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">homepage</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">galleries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">gallery 1: paintings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"drawings.html\">gallery 2: drawings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photography.html\">gallery 3: photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"monotypes.html\">gallery 4: monotypes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Studio drawing.html\">studio drawing</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biographie.html\" aria-expanded=\"false\">biography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artist at work.html\" aria-expanded=\"false\">artist at work</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
