@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "paint-ings.html",
+    "currentPage": "photography.html",
     "name": "www.nellomargodt.be",
     "theme": {
       "name": "mobirise3",
@@ -695,7 +695,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/IMG_8669.JPG",
+                "image": "@PROJECT_PATH@/assets/images/IMG_8669_1.JPG",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -723,7 +723,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/WIN_20170321_172655%20(2)_1.JPG",
+                "image": "@PROJECT_PATH@/assets/images/WIN_20170321_172655%20(2)_2.JPG",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
